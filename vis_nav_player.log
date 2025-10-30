@@ -1,17 +1,20 @@
-11-Feb-25 13:35:39 - INFO: player.py is using vis_nav_game 1.2.1
-11-Feb-25 13:35:42 - INFO: vis_nav_game.core version=1.2.1
-11-Feb-25 13:35:42 - INFO: init from A:\NYU\Academics\TA\Game\vis_nav_player\startup.json: {'ESSENTIAL_FILE_ID': '1CvIOxnKO8Z8NDBh-kKOpUuWEgPinLLSV', 'MAZE_FILE_ID': '1gF7HiL6dMFuTNBi87mvXrShrA93df-RK', 'MAZE_FILE_MD5_KEY': 'ee5b9a353f2c713e8f00333669a06fd0'}
-11-Feb-25 13:35:42 - INFO: Missing essentials, downloading the files...
-11-Feb-25 13:35:51 - INFO: Essentials extraction complete.
-11-Feb-25 13:35:51 - INFO: Missing A:\NYU\Academics\TA\Game\vis_nav_player\data\maze.json, downloading it...
-11-Feb-25 13:35:55 - INFO: Start loading the map
-11-Feb-25 13:35:55 - INFO: Init rules from {'NAV_START_TIME': 1727755200.0, 'NOISY_MOTION': 1}
-11-Feb-25 13:35:55 - INFO: NAV_START_TIME set to 2024/10/01 00:00:00
-11-Feb-25 13:35:55 - INFO: System time=1739298955.7021427, Internet time=1739298947.9909663, diff=7.71117639541626
-11-Feb-25 13:35:55 - INFO: NOISY_MOTION set to 1
-11-Feb-25 13:35:55 - INFO: Loaded rules for competition!
-11-Feb-25 13:36:10 - INFO: Finished loading the map: takes 14.485357999801636 s
-11-Feb-25 13:36:12 - INFO: Target Images processing completed.
-11-Feb-25 13:36:12 - INFO: EXPLORATION phase passed. Proceeding to NAVIGATION phase.
-11-Feb-25 13:38:40 - INFO: Saving the game, please wait...
-11-Feb-25 13:38:40 - INFO: Game saved successfully at A:\NYU\Academics\TA\Game\vis_nav_player\data\save\game-20250211-133840.npy.
+30-Oct-25 14:16:53 - INFO: player.py is using vis_nav_game 1.2.5
+30-Oct-25 14:16:54 - INFO: vis_nav_game.core version=1.2.5
+30-Oct-25 14:16:54 - INFO: init from /Users/fangzhengtian/Documents/2025-summer/vis_nav_player_team1234/startup.json: {'ESSENTIAL_FILE_ID': '1CvIOxnKO8Z8NDBh-kKOpUuWEgPinLLSV', 'MAZE_FILE_ID': '1gF7HiL6dMFuTNBi87mvXrShrA93df-RK', 'MAZE_FILE_MD5_KEY': 'ee5b9a353f2c713e8f00333669a06fd0'}
+30-Oct-25 14:16:54 - INFO: data_dir=/Users/fangzhengtian/Documents/2025-summer/vis_nav_player_team1234/data
+30-Oct-25 14:16:54 - INFO: Missing essentials, downloading the files...
+30-Oct-25 14:17:02 - INFO: Essentials extraction complete.
+30-Oct-25 14:17:02 - INFO: Missing /Users/fangzhengtian/Documents/2025-summer/vis_nav_player_team1234/data/maze.json, downloading it...
+30-Oct-25 14:17:04 - INFO: save_dir=/Users/fangzhengtian/Documents/2025-summer/vis_nav_player_team1234/data/save
+30-Oct-25 14:17:04 - INFO: Start loading the map
+30-Oct-25 14:17:04 - INFO: Init rules from {'NAV_START_TIME': 1727755200.0, 'NOISY_MOTION': 1}
+30-Oct-25 14:17:04 - INFO: NAV_START_TIME set to 2024/10/01 00:00:00
+30-Oct-25 14:17:04 - INFO: Internet time fetched from 0.pool.ntp.org: 1761848224.6613007
+30-Oct-25 14:17:04 - INFO: System time=1761848224.649056, Internet time=1761848224.6613007, diff=0.012244701385498047
+30-Oct-25 14:17:04 - INFO: NOISY_MOTION set to 1
+30-Oct-25 14:17:04 - INFO: Loaded rules for competition!
+30-Oct-25 14:17:12 - INFO: Finished loading the map: takes 7.698753118515015 s
+30-Oct-25 14:17:14 - INFO: Target Images processing completed.
+30-Oct-25 14:17:14 - INFO: EXPLORATION phase passed. Proceeding to NAVIGATION phase.
+30-Oct-25 14:17:47 - INFO: Saving the game, please wait...
+30-Oct-25 14:17:47 - INFO: Game saved successfully at /Users/fangzhengtian/Documents/2025-summer/vis_nav_player_team1234/data/save/game-20251030-141747.npy.
